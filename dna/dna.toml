@@ -102,5 +102,11 @@ RequiresVersion = 5
   [[Zomes.Functions]]    
     Name = "getHandle"
     CallingType = "string"
+  [[Zomes.Functions]]    
+    Name = "getAgent"
+    CallingType = "string"
+  [[Zomes.Functions]]    
+    Name = "getFollow"
+    CallingType = "json"
 
 # Additional zome files each need their own section specifying file paths and schemas
